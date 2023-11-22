@@ -1353,6 +1353,8 @@ blockquote {
     z-index: 53;
 }
 
+
+
 #slvj-close-icon:before {
     font-family: "fontawesome";
     color: #fff;
@@ -2104,6 +2106,11 @@ blockquote {
 ===============================*/
 @media (max-width: 480px) {
 
+    h1 span {
+        background: rgb(247 247 247 / 80%)    
+      }
+
+     
     #wrapper {
         margin:0;
         padding:0;
@@ -2196,6 +2203,10 @@ blockquote {
 /* Mobile to Tablet Portrait
 ===============================*/
 @media (min-width: 480px) and (max-width: 767px) {
+    h1 span {
+        background: rgb(247 247 247 / 80%)    
+      }
+
 
     #wrapper {
         margin:0;
@@ -2277,6 +2288,9 @@ blockquote {
 /* Landscape Tablet to Desktop
 ===============================*/
 @media (min-width: 768px) and (max-width: 1024px) {
+    h1 span {
+        background: rgb(247 247 247 / 80%)    
+      }
 
     #wrapper {
         margin:0;
