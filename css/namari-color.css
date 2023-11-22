@@ -124,7 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+    background: url("../images/banner-images/auto2.jpeg") no-repeat center top;
     background-size:cover;
 }
 
@@ -164,7 +164,7 @@ body {
 
 #banner h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
-    font-size:62px;
+    font-size:46px;
     line-height:60px;
     font-weight:800;
     color:#111;
